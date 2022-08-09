@@ -4,7 +4,7 @@
   ### With the growth of the E-commerce market market Cap, there has been a growth of approximately 14 % over brick and mortar oppurations.  One of the driving factors for customer satisfaction is wether or not the package will be delivered when it is supposed to be.  If we say the package will be there on a given day, then it should be there on that day or before, if our timelines are not correct, then we need to adjust timelines and determine what the import factors are in determining if a package will be delivered on time or not.
 ## Data Utilized:
   ### We utilized the E-Commerce Shipping Data from kaggle, this data set has 10,999 entries and it includes:
-  __ID__: ID Number of Customers.
+  __ID__: ID Number of Customers.<br>
 __Warehouse block__: The Company have big Warehouse which is divided in to block such as A,B,C,D,E.<br>
 __Mode of shipment__:The Company Ships the products in multiple way such as Ship, Flight and Road.<br>
 __Customer care calls__: The number of calls made from enquiry for enquiry of the shipment.<br>
@@ -29,6 +29,9 @@ __Reached on time__: It is the target variable, where 1 Indicates that the produ
 # Conlusion:
 ## In conclusion we were able to come up with a workable model which gives a solid way to predict wether or not a package will arrive on time.  The final model gives us the ability to eliviate a lot of concern with the customer and to help them understand when a package will be delivered to them.  
 ## In the future I would like to increase the size of the data and add some time series data, so that we can see if the time of the year, week or day effect wether or not a package is delivered on time.  There is also the possibility of searching into the customer care calls and the customers rating using NLP and determine if the satisfaction or dissatisfaction is tied to the delivery of the product being on time or not on time
+
+
+
 # Repository Structure
 
 ```
