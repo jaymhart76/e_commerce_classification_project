@@ -1,5 +1,5 @@
 # e_commerce_classification_project
-# Objectiv:
+# Objective:
 Determine wether or not a future package will be delivered on time or not and what are the most influential factors contributing to whether or not the package arrives on time.
 
 ## Business understanding:
