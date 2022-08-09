@@ -29,3 +29,12 @@ __Reached on time__: It is the target variable, where 1 Indicates that the produ
 # Conlusion:
 ## In conclusion we were able to come up with a workable model which gives a solid way to predict wether or not a package will arrive on time.  The final model gives us the ability to eliviate a lot of concern with the customer and to help them understand when a package will be delivered to them.  
 ## In the future I would like to increase the size of the data and add some time series data, so that we can see if the time of the year, week or day effect wether or not a package is delivered on time.  There is also the possibility of searching into the customer care calls and the customers rating using NLP and determine if the satisfaction or dissatisfaction is tied to the delivery of the product being on time or not on time
+# Repository Structure
+
+```
+├── e_commerce_shipments.csv (data used for modeling)
+├── E-commerce_project.pptx (images used in PPT and readme)
+├── README.md : project information and repository structure
+├── e_commerce_shipments.csv: (Presentation for Stakeholders)
+└── e_commerce_project.ipynb (jupyter notebook used for modeling)
+```
